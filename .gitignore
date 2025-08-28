@@ -1,0 +1,5 @@
+# Ignore large files over 100MB that cannot be uploaded to GitHub
+Eye_Tracking_Mouse_Control_Setup.exe
+build/Eye Tracking Mouse Control/Eye Tracking Mouse Control.pkg
+build/eye_tracker_fixed/Eye Tracking Mouse Control.pkg
+dist/Eye Tracking Mouse Control.exe
