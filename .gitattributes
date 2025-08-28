@@ -1,0 +1,4 @@
+Eye_Tracking_Mouse_Control_Setup.exe filter=lfs diff=lfs merge=lfs -text
+build/Eye[[:space:]]Tracking[[:space:]]Mouse[[:space:]]Control/Eye[[:space:]]Tracking[[:space:]]Mouse[[:space:]]Control.pkg filter=lfs diff=lfs merge=lfs -text
+build/eye_tracker_fixed/Eye[[:space:]]Tracking[[:space:]]Mouse[[:space:]]Control.pkg filter=lfs diff=lfs merge=lfs -text
+dist/Eye[[:space:]]Tracking[[:space:]]Mouse[[:space:]]Control.exe filter=lfs diff=lfs merge=lfs -text
